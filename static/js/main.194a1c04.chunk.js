@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,,,function(e,n,t){e.exports=t(12)},,,,,,function(e,n,t){},function(e,n,t){e.exports=t.p+"static/media/logo.5d5d9eef.svg"},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var o=t(0),a=t.n(o),c=t(2),r=t.n(c);t(9),t(10),t(11);var i=function(){return a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"Welcome to mypage"))};r.a.render(a.a.createElement(i,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.194a1c04.chunk.js.map
